@@ -250,6 +250,7 @@ class ResnetCompleteNetworkTest(tf.test.TestCase):
 
 if __name__ == '__main__':
     #Runs all unit tests.
+    #test git
     tf.test.main()
 
 
