@@ -251,6 +251,7 @@ class ResnetCompleteNetworkTest(tf.test.TestCase):
 if __name__ == '__main__':
     #Runs all unit tests.
     #test git
+    #this file is at a branch in the repository
     tf.test.main()
 
 
